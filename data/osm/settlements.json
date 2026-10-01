@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Rasuwagadhi",
+    "name_ne": "रसुवागढी",
+    "lat": 28.2725,
+    "lon": 85.3782,
+    "type": "border_crossing",
+    "elevation_m": 1814
+  },
+  {
+    "name": "Timure",
+    "name_ne": "टिमुरे",
+    "lat": 28.2412,
+    "lon": 85.3725,
+    "type": "village",
+    "elevation_m": 1760
+  },
+  {
+    "name": "Ghattekhola",
+    "name_ne": "घट्टेखोला",
+    "lat": 28.212,
+    "lon": 85.361,
+    "type": "hamlet",
+    "elevation_m": 1640
+  },
+  {
+    "name": "Syaphrubesi",
+    "name_ne": "स्याफ्रुबेसी",
+    "lat": 28.1578,
+    "lon": 85.3392,
+    "type": "town",
+    "elevation_m": 1460
+  },
+  {
+    "name": "Thambuchet",
+    "name_ne": "थाम्बुचेत",
+    "lat": 28.183,
+    "lon": 85.285,
+    "type": "village",
+    "elevation_m": 1850
+  },
+  {
+    "name": "Gatlang",
+    "name_ne": "गत्लाङ",
+    "lat": 28.142,
+    "lon": 85.267,
+    "type": "village",
+    "elevation_m": 2238
+  },
+  {
+    "name": "Goljung",
+    "name_ne": "गोल्जुङ",
+    "lat": 28.163,
+    "lon": 85.305,
+    "type": "village",
+    "elevation_m": 1950
+  },
+  {
+    "name": "Dhunche",
+    "name_ne": "धुन्चे",
+    "lat": 28.1135,
+    "lon": 85.3032,
+    "type": "town",
+    "elevation_m": 1960,
+    "has_hospital": true
+  },
+  {
+    "name": "Thade",
+    "name_ne": "थाडे",
+    "lat": 28.082,
+    "lon": 85.275,
+    "type": "hamlet",
+    "elevation_m": 1720
+  },
+  {
+    "name": "Ramche",
+    "name_ne": "राम्चे",
+    "lat": 28.041,
+    "lon": 85.242,
+    "type": "village",
+    "elevation_m": 1390
+  },
+  {
+    "name": "Kalikasthan",
+    "name_ne": "कालिकास्थान",
+    "lat": 28.0125,
+    "lon": 85.215,
+    "type": "town",
+    "elevation_m": 1280
+  },
+  {
+    "name": "Betrawati",
+    "name_ne": "बेत्रावती",
+    "lat": 27.973,
+    "lon": 85.184,
+    "type": "town",
+    "elevation_m": 625,
+    "has_bridge": true
+  },
+  {
+    "name": "Bidur",
+    "name_ne": "विदुर",
+    "lat": 27.915,
+    "lon": 85.161,
+    "type": "hub_city",
+    "elevation_m": 580,
+    "has_major_hospital": true
+  },
+  {
+    "name": "Trishuli Bazaar",
+    "name_ne": "त्रिशूली बजार",
+    "lat": 27.925,
+    "lon": 85.148,
+    "type": "town",
+    "elevation_m": 560,
+    "has_clinic": true
+  }
+]

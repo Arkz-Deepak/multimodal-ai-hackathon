@@ -1,0 +1,16 @@
+{
+  "total_network_km": 56.6,
+  "severed_road_km": 19.46,
+  "damaged_pct": 34.4,
+  "total_segments_analyzed": 15,
+  "severed_segments_count": 9,
+  "passable_segments_count": 6,
+  "severed_bridges_count": 1,
+  "severed_bridges": [
+    {
+      "name": "Timure Stream Crossing Bridge",
+      "road_id": 1010,
+      "damage_cause": "Debris Flow Blockage"
+    }
+  ]
+}

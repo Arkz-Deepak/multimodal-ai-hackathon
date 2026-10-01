@@ -1,0 +1,29 @@
+[
+  {
+    "id": "hosp_bidur",
+    "name": "Trishuli District Hospital (Bidur)",
+    "name_ne": "त्रिशूली जिल्ला अस्पताल, विदुर",
+    "lat": 27.9142,
+    "lon": 85.1605,
+    "capacity_beds": 100,
+    "type": "district_headquarters_hospital"
+  },
+  {
+    "id": "hosp_dhunche",
+    "name": "Rasuwa District Hospital (Dhunche)",
+    "name_ne": "रसुवा जिल्ला अस्पताल, धुन्चे",
+    "lat": 28.114,
+    "lon": 85.3045,
+    "capacity_beds": 35,
+    "type": "mountain_district_hospital"
+  },
+  {
+    "id": "clinic_syaphru",
+    "name": "Syaphrubesi Primary Healthcare Center",
+    "name_ne": "स्याफ्रुबेसी प्राथमिक स्वास्थ्य केन्द्र",
+    "lat": 28.1565,
+    "lon": 85.3385,
+    "capacity_beds": 10,
+    "type": "primary_healthcare_center"
+  }
+]

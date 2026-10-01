@@ -1,0 +1,456 @@
+{
+  "type": "FeatureCollection",
+  "attribution": "FloodWatch Space Damage Assessment. \u00a9 OpenStreetMap contributors.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.215,
+            28.0125
+          ],
+          [
+            85.228,
+            28.026
+          ],
+          [
+            85.242,
+            28.041
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1003,
+        "name": "Pasang Lhamu Highway (Kalikasthan - Ramche)",
+        "highway": "secondary",
+        "bridge": "no",
+        "length_km": 4.13,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.85,
+        "damage_ratio_pct": 44.8,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.242,
+            28.041
+          ],
+          [
+            85.258,
+            28.062
+          ],
+          [
+            85.275,
+            28.082
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1004,
+        "name": "Pasang Lhamu Highway (Ramche - Thade)",
+        "highway": "secondary",
+        "bridge": "no",
+        "length_km": 5.59,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 4.39,
+        "damage_ratio_pct": 78.5,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.345,
+            28.169
+          ],
+          [
+            85.352,
+            28.191
+          ],
+          [
+            85.361,
+            28.212
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1008,
+        "name": "Bhote Koshi Corridor Road (Syaphrubesi - Ghattekhola)",
+        "highway": "secondary",
+        "bridge": "no",
+        "length_km": 5.04,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.23,
+        "damage_ratio_pct": 24.5,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.361,
+            28.212
+          ],
+          [
+            85.368,
+            28.228
+          ],
+          [
+            85.3725,
+            28.2412
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1009,
+        "name": "Bhote Koshi Highway (Ghattekhola - Timure)",
+        "highway": "secondary",
+        "bridge": "no",
+        "length_km": 3.44,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 3.19,
+        "damage_ratio_pct": 92.8,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3725,
+            28.2412
+          ],
+          [
+            85.3745,
+            28.252
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1010,
+        "name": "Timure Stream Crossing Bridge",
+        "highway": "secondary",
+        "bridge": "yes",
+        "length_km": 1.22,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.22,
+        "damage_ratio_pct": 100.0,
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3745,
+            28.252
+          ],
+          [
+            85.3782,
+            28.2725
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1011,
+        "name": "Rasuwagadhi Border Access Highway",
+        "highway": "primary",
+        "bridge": "no",
+        "length_km": 2.31,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.58,
+        "damage_ratio_pct": 68.3,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3392,
+            28.1578
+          ],
+          [
+            85.321,
+            28.161
+          ],
+          [
+            85.305,
+            28.163
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1012,
+        "name": "Tamang Heritage Road (Syaphrubesi - Goljung)",
+        "highway": "unclassified",
+        "bridge": "no",
+        "length_km": 3.4,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.29,
+        "damage_ratio_pct": 37.9,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.305,
+            28.163
+          ],
+          [
+            85.286,
+            28.152
+          ],
+          [
+            85.267,
+            28.142
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1013,
+        "name": "Gatlang Valley Road",
+        "highway": "unclassified",
+        "bridge": "no",
+        "length_km": 4.4,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 3.44,
+        "damage_ratio_pct": 78.1,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.305,
+            28.163
+          ],
+          [
+            85.295,
+            28.172
+          ],
+          [
+            85.285,
+            28.183
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1014,
+        "name": "Chilime Hydropower Access Road",
+        "highway": "secondary",
+        "bridge": "no",
+        "length_km": 2.97,
+        "status": "SEVERED",
+        "damage_cause": "Debris Flow Blockage",
+        "severed_length_km": 1.27,
+        "damage_ratio_pct": 42.8,
+        "color": "#FF4500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.161,
+            27.915
+          ],
+          [
+            85.168,
+            27.935
+          ],
+          [
+            85.176,
+            27.955
+          ],
+          [
+            85.184,
+            27.973
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1000,
+        "name": "Pasang Lhamu Highway (Bidur - Betrawati)",
+        "highway": "primary",
+        "bridge": "no",
+        "length_km": 6.84,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.184,
+            27.973
+          ],
+          [
+            85.189,
+            27.981
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1001,
+        "name": "Trishuli River Bridge (Betrawati)",
+        "highway": "primary",
+        "bridge": "yes",
+        "length_km": 1.02,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.189,
+            27.981
+          ],
+          [
+            85.201,
+            27.998
+          ],
+          [
+            85.215,
+            28.0125
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1002,
+        "name": "Pasang Lhamu Highway (Betrawati - Kalikasthan)",
+        "highway": "primary",
+        "bridge": "no",
+        "length_km": 4.35,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.275,
+            28.082
+          ],
+          [
+            85.291,
+            28.099
+          ],
+          [
+            85.3032,
+            28.1135
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1005,
+        "name": "Pasang Lhamu Highway (Thade - Dhunche)",
+        "highway": "primary",
+        "bridge": "no",
+        "length_km": 4.46,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3032,
+            28.1135
+          ],
+          [
+            85.319,
+            28.132
+          ],
+          [
+            85.3392,
+            28.1578
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1006,
+        "name": "Pasang Lhamu Highway (Dhunche - Syaphrubesi)",
+        "highway": "primary",
+        "bridge": "no",
+        "length_km": 6.06,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3392,
+            28.1578
+          ],
+          [
+            85.345,
+            28.169
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1007,
+        "name": "Syaphrubesi Gorge Bridge",
+        "highway": "primary",
+        "bridge": "yes",
+        "length_km": 1.37,
+        "status": "PASSABLE",
+        "color": "#32CD32"
+      }
+    }
+  ]
+}

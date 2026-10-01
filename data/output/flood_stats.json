@@ -1,0 +1,11 @@
+{
+  "satellite_sensor": "Sentinel-1 C-SAR (Interferometric Wide Swath)",
+  "acquisition_pre": "2026-08-15T00:18:24Z (Orbit 121, Descending)",
+  "acquisition_post": "2026-08-27T00:18:24Z (Orbit 121, Descending)",
+  "temporal_baseline_days": 12,
+  "corridor_area_analyzed_km2": 1729.6,
+  "water_inundation_km2": 36.21,
+  "debris_deposition_km2": 44.53,
+  "total_impact_area_km2": 80.74,
+  "geojson_path": "C:\\Projects\\multimodal-ai-hackathon\\data\\output\\flood_and_debris_impact.geojson"
+}

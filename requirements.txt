@@ -1,0 +1,13 @@
+# FloodWatch Space: Requirements
+geopandas>=1.0.0
+rasterio>=1.4.0
+shapely>=2.0.0
+networkx>=3.0
+folium>=0.17.0
+streamlit-folium>=0.20.0
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+scipy>=1.12.0
+plotly>=5.20.0
