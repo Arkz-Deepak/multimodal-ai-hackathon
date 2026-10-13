@@ -127,11 +127,8 @@ def main():
             m = folium.Map(
                 location=[center_lat, center_lon],
                 zoom_start=11,
-                tiles="CartoDB positron"
+                tiles="OpenStreetMap"
             )
-
-            # Add Satellite / OpenStreetMap tile alternatives
-            folium.TileLayer("OpenStreetMap", name="OpenStreetMap").add_to(m)
 
             # 1. Add Flood and Debris Polygons
             if show_flood or show_debris:
@@ -316,7 +313,10 @@ def main():
                 "Est. Wave Arrival (Minutes)": s["estimated_arrival_minutes"],
                 "Elevation Drop (m)": s["elevation_drop_from_origin_m"]
             })
-        st.dataframe(flow_rows, use_container_width=True)
+        try:
+            st.dataframe(flow_rows, width="stretch")
+        except TypeError:
+            st.dataframe(flow_rows, use_container_width=True)
 
     # -------------------------------------------------------------
     # TAB 5: EMSR927 CASE STUDY COMPARISON
